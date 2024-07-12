@@ -1,4 +1,4 @@
-# MRA-DeepMRA-deconvolution
+# MRA-SecMRA-deconvolution
 Supplementary software for the manuscript "Multi-resolution analysis enables fidelity-ensured deconvolution for fluorescence microscopy".
 
 Currently, the package contains the .m source code and a .exe files containing GUI of the algorithms with one test dataset.
