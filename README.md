@@ -1,5 +1,5 @@
 # MRA-DeepMRA-deconvolution
-Supplementary software for the manuscript "Noise-robust, physical genuine deconvolution algorithm for fluorescence microscopy enabled by multi-resolution analysis".
+Supplementary software for the manuscript "Multi-resolution analysis enables fidelity-ensured deconvolution for fluorescence microscopy".
 
 Currently, the package contains the .exe files of the algorithms with one test dataset.
 # System requirements
