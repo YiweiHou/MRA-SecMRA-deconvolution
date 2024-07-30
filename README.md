@@ -15,10 +15,10 @@ To run the .exe files, the MATLAB software is not necessary but one should downl
 To run the .m GUI, users need to install MATLAB at any version (this code is written based on MATLAB 2020b, different MATLAB version may have different function rules that influence the functioning). Open the MRA.m or DeepMRA.m file, then click run to activate the software.
 
 # Demo
-Some test data and parameters are attached with the project for demonstration.
+Some test data and parameters are attached with the project for demonstration. To access the raw fluorescence images displayed in the article, please access: https://figshare.com/articles/dataset/Fluorescence_image_zip/24100263
 
 # Instructions for use
 A detailed UserManual is attached with the project.
 
 # Citation
-If you find our code or data useful, please cite the article: "Multi-resolution analysis enables fidelity-ensured deconvolution for fluorescence microscopy" published in eLight.
+If you find our code or data useful, please cite the article: "Multi-resolution analysis enables fidelity-ensured deconvolution for fluorescence microscopy" , which will soon be published in eLight.
