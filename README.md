@@ -18,7 +18,7 @@ To run the .m GUI, users need to install MATLAB at any version (this code is wri
 Some test data and parameters are attached with the project for demonstration. To access the raw fluorescence images displayed in the article, please access: https://figshare.com/articles/dataset/Fluorescence_image_zip/24100263
 
 # Instructions for use
-A detailed UserManual is attached with the project.
+A detailed UserManual is attached with the project. For any questions in usage, please contact: houyiwei@stu.pku.edu.cn
 
 # Citation
 If you find our code or data useful, please cite the article: "Multi-resolution analysis enables fidelity-ensured deconvolution for fluorescence microscopy" , which will soon be published in eLight.
