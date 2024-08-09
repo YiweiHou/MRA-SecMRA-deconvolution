@@ -21,4 +21,4 @@ Some test data and parameters are attached with the project for demonstration. T
 A detailed UserManual is attached with the project. For any questions in usage, please contact: houyiwei@stu.pku.edu.cn
 
 # Citation
-If you find our code or data useful, please cite the article: "Multi-resolution analysis enables fidelity-ensured deconvolution for fluorescence microscopy" , which will soon be published in eLight.
+If you find our code or data useful, please cite the article: "Multi-resolution analysis enables fidelity-ensured deconvolution for fluorescence microscopy" , which will soon be published in eLight https://doi.org/10.1186/s43593-024-00073-7.
