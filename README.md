@@ -2,7 +2,7 @@
 Supplementary software for the manuscript "Multi-resolution analysis enables fidelity-ensured deconvolution for fluorescence microscopy".
 
 Currently, the package contains the .m source code and a .exe files containing GUI of the algorithms with one test dataset.
-For more test data, please access: https://figshare.com/articles/Fig./Fluorescence_image_zip/24100263
+For more test data, please access: https://figshare.com/articles/dataset/Fluorescence_image_zip/24100263
 # System requirements
 MRA&DeepMRA deconvolution package only requires a standard computer.
 
