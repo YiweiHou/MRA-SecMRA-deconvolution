@@ -1,0 +1,1 @@
+The region displayed in the manuscript Fig. 2e: center coordinate (600,174)
