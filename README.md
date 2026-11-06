@@ -35,5 +35,8 @@ See some representative MRA deconvolution results:
 # 🎯 Instructions for use
 A detailed UserManual is attached with the project. For any questions in usage, please contact: houyiwei@stu.pku.edu.cn
 
+# 🎉 Update
+2026/11/6  We release an ImageJ plugin of MRA/SecMRA deconvolution. It can be used with ImageJ without the need of installing MATLAB Runtime
+
 # 🌐 Citation
 If you find our code or data useful, please cite the article: "Multi-resolution analysis enables fidelity-ensured deconvolution for fluorescence microscopy" , published in eLight https://doi.org/10.1186/s43593-024-00073-7.
