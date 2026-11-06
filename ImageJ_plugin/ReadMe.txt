@@ -1,1 +1,0 @@
-For users' convenience, we release an ImageJ version of the software. To run the ImageJ version, please place this .jar file in the plugin folder of your ImageJ. The software can be readily used without the need of any additional installations. 
